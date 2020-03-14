@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of ImageZerO](https://imagezero.net/wp-content/uploads/2020/02/logo.jpg)
